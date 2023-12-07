@@ -6,7 +6,7 @@ function Search() {
   return (
    <>
    <section className='search-section'> 
-   <h2>Search your movie</h2>
+   <h1>Search your favourite movie</h1>
    <form onSubmit={(e)=>e.preventDefault()}>
     <div>
       <input
